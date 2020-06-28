@@ -1,15 +1,14 @@
 <resources>
     <!--
-    TODO: Before you run your application, you need a Google Maps API key.
 
     To get one, follow this link, follow the directions and press "Create" at the end:
 
-    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=A9:3D:D7:DE:4D:3E:F5:FC:EC:44:8D:B7:3A:BB:3E:9D:E0:08:5E:5F%3Bcom.androidcenter.livetrackingdemo
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=A9:3D:D7:DE:4D:3E:F5:FC:EC:44:8D:B7:3A:BB:3E:9D:E0:08:5E:5F%3Bcom.mintusharma.webkultask.activities
 
     You can also add your credentials to an existing key, using these values:
 
     Package name:
-    com.androidcenter.livetrackingdemo
+    com.mintusharma.webkultask.activities
 
     SHA-1 certificate fingerprint:
     A9:3D:D7:DE:4D:3E:F5:FC:EC:44:8D:B7:3A:BB:3E:9D:E0:08:5E:5F
@@ -20,5 +19,5 @@
     Once you have your key (it starts with "AIza"), replace the "google_maps_key"
     string in this file.
     -->
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCiwkDZBznw7QdDVZk2nChRKIANX3LmMNs</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDkw3WAg26Y3xc44V93o34TU_N6dAf0tGY</string>
 </resources>

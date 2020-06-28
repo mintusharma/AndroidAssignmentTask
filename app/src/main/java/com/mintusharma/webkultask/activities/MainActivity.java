@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
 
             case R.id.track_me_button:
-                startActivity(new Intent(this,TrackMeActivity.class));
+                startActivity(new Intent(this,TrackingActivity.class));
                 break;
 
             case R.id.download_file_button:

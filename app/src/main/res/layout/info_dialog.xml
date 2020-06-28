@@ -7,21 +7,12 @@
     android:layout_gravity="center"
     android:layout_height="wrap_content">
 
-    <ImageView
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:src="@drawable/logo"
-        android:layout_gravity="center"
-        android:layout_marginTop="10dp"
-        android:contentDescription="@string/info"/>
-
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         android:text="@string/info"
         android:padding="10dp"
-        android:textSize="20sp"
         android:textColor="@color/white"
         android:gravity="center"
         />

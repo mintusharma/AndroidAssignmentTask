@@ -28,5 +28,6 @@
         screen because I implement the GPS enable check but not working in some devices may need to recheck or improve some conditions.\n Overall thanks Once again for you Task.
 
     </string>
+    <string name="title_activity_tracking">Live Tracking</string>
 
 </resources>

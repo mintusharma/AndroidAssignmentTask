@@ -9,6 +9,9 @@
     <color name="dBlue">#03254c</color>
 
     <color name="white">#ffffff</color>
+    <color name="gray">#B1AEAE</color>
+
+    <color name="red">#C62828</color>
 
     <color name="text_color">#ED373636</color>
 </resources>
