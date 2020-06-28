@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
 
             case R.id.github:
-                String url = "https://github.com/mintusharma/AssignmentTask";
+                String url = "https://github.com/mintusharma/AndroidAssignmentTask";
                 Intent i = new Intent(Intent.ACTION_VIEW);
                 i.setData(Uri.parse(url));
                 startActivity(i);
